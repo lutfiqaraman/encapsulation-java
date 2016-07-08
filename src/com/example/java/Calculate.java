@@ -23,8 +23,8 @@ class Calculate {
     }
 
     static void Divide(int n1, int n2) {
-        int devide = n1 / n2;
-        System.out.println("The result of devide the two numbers = " + Integer.toString(devide));
+        int divide = n1 / n2;
+        System.out.println("The result of devide the two numbers = " + Integer.toString(divide));
     }
 
 
